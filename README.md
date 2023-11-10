@@ -37,7 +37,7 @@ The expected results are either a date (DD/MM/YYYY) as a string or "Invalid Data
 
 2. Download the code in a ZIP file or clone the repository
 
-``` $ git clone https://github.com/kidijkmans/ecommerce-delivery-date-calculator.git ```
+``` $ git clone https://github.com/kimberly-0/ecommerce-delivery-date-calculator.git ```
 
 3. Open `DeliveryDates.java` (located in *src/main/java/kd*) in an IDE
 
